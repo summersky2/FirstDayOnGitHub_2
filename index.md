@@ -8,3 +8,20 @@
 
 # Adding Image : 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Adding Code Blocks :
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+<details>
+<summary>Adding Code Blocks in nested</summary>
+
+Some intro text here.
+
+<details>
+<summary>Javascript Sample</summary>
+
+```javascript
+console.log('Nested hello!');
