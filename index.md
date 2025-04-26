@@ -9,6 +9,11 @@
 # Adding Image : 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+# Creating a Task List :
+- [x] Turn on GitHub Pages (ticked Task)
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 # Adding Code Blocks :
 ```
 $ git init
@@ -25,3 +30,4 @@ Some intro text here.
 
 ```javascript
 console.log('Nested hello!');
+
